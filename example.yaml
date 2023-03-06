@@ -1,0 +1,9 @@
+name: example
+tags: [example1,example2]
+data: |
+
+  # example
+  ```
+  echo example
+  ```
+
